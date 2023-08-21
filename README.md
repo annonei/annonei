@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align=center>Hello there, I'm Josh👋</h1>
 
-<!--
-**annonei/annonei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
+  <a href="https://www.blender.org/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"></a>
+  <a href="https://unity.com/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"></a>
+  <a href="https://github.com/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
+  <a href="https://www.linux.org/pages/download/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+>
+> - 🔭 Currently working to improve in Cybersecurity and Reverse Engineering.
+>
+> - 🎓 Graduated with an AAS Cyber Defense from Hennepin Technical College.
+
+## Statistics 
+[![](https://github-readme-stats.vercel.app/api?username=anonnei&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anonnei&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![](https://komarev.com/ghpvc/?username=anonnei&color=28AFB0)](https://github.com/anonnei)  
