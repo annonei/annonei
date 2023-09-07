@@ -1,5 +1,3 @@
-<h1 align=center>Hello there, I'm Josh👋</h1>
-
 <div align=center>
   <a href="https://tryhackme.com/p/Anonei" target="_blank"><img alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/Anonei.png"></a>
 </div>
